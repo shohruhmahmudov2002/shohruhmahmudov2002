@@ -3,15 +3,25 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" width="40" />
-</p>
+<p align="center"> 
+  <!-- Languages & Frameworks --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET Core" width="40" /> 
+  <!-- Database --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" /> 
+  <!-- Tools --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" /> 
+  <!-- Docker --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" /> 
+  <!-- Solr --> 
+  <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" title="Apache Solr" width="40" /> 
+  <!-- Elasticsearch --> 
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" width="40" /> 
+  <!-- Kibana --> 
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" width="40" /> 
+  <!-- RabbitMQ --> 
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" /> 
+  <!-- MinIO -->
+  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" title="MinIO" width="40" /> </p>
 
 ---
 
