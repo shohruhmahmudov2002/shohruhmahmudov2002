@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hi, I'm Shohruh Mahmudov</h1>
 <h3 align="center">💻 A passionate .NET Backend Developer from Uzbekistan</h3>
 
-<p align="center">
-  <a href="mailto:shohruhmahmudov2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-shohruhmahmudov2002@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://t.me/Csharp_Knowledge"><img src="https://img.shields.io/badge/Telegram-Articles-blue?style=flat&logo=telegram"></a>
-  <a href="https://linkedin.com/in/shohruh-mahmudov-0961a7333"><img src="https://img.shields.io/badge/LinkedIn-shohruh--mahmudov-blue?style=flat&logo=linkedin"></a>
-</p>
-
 ### 🛠 Tech Stack
 
 <p align="center">
