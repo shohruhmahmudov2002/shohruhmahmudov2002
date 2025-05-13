@@ -6,7 +6,6 @@
   <a href="https://t.me/Csharp_Knowledge"><img src="https://img.shields.io/badge/Telegram-Articles-blue?style=flat&logo=telegram"></a>
   <a href="https://linkedin.com/in/shohruh-mahmudov-0961a7333"><img src="https://img.shields.io/badge/LinkedIn-shohruh--mahmudov-blue?style=flat&logo=linkedin"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruhmahmudov2002&label=Profile%20views&color=0e75b6&style=flat" alt="shohruhmahmudov2002" /> </p>
 
 ### 🛠 Tech Stack
 
@@ -19,9 +18,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" width="40" />
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohruhmahmudov2002&show_icons=true&locale=en&layout=compact" alt="shohruhmahmudov2002" /></p>
 
 ---
 
